@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**erzhanmurasbekov/erzhanmurasbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front-End Developer with over three years of experience, specializing in React, Redux, and TailwindCSS. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 My Skills
+- React
+- Redux
+- TailwindCSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Responsive Web Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erzhanmurasbekov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)]((https://erzhan-portfolio.netlify.app/))
+
+Feel free to explore my repositories and projects. I'm always open to new opportunities and collaborations!
+
+---
+
+Thanks for visiting my GitHub! 😄
