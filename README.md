@@ -1,6 +1,6 @@
 # Hi there, I'm Murasbekov Erzhan 👋
 
-I'm a passionate Front-End Developer with over three years of experience, specializing in React, Redux, and TailwindCSS. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
+I'm a passionate Front-End Developer with over four years of experience, specializing in React, Redux, and TailwindCSS. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
 
 ### 🚀 My Skills
 - React
